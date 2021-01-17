@@ -1,1 +1,1 @@
-# a_taste_of_elasticsearch
+# 엘라스틱 스택 맛보기
