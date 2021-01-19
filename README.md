@@ -12,3 +12,4 @@
 3. 매운맛 : 나만의 데이터 대시보드 만들기
     - 3.1. 기존 데이터 분석하기 (COVID-19, https://kosis.kr/covid/covid_index.do )
     - 3.2. 네트워크 트래픽 분석하기 (https://www.elastic.co/kr/beats/packetbeat)
+    - 3.3. 활용 사례
