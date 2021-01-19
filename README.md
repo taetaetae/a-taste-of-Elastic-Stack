@@ -9,7 +9,7 @@
     - 2.2. Kibana
     - 2.3. Logstash
     - 2.4. Beat
-3. 매운맛 : 데이터 대시보드 실습, 사례 공유 및 질의 응답
+3. 매운맛 : 데이터 대시보드 실습, 사례 공유
     - 3.1. 기존 데이터 분석하기 (COVID-19, https://kosis.kr/covid/covid_index.do )
     - 3.2. 네트워크 트래픽 분석하기 (https://www.elastic.co/kr/beats/packetbeat)
-    - 3.3. 활용 사례
+    - 3.3. Elastic Stack 활용 사례 공유
